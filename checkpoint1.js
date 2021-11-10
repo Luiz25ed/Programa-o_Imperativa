@@ -43,9 +43,10 @@ let menuLista = {
     Carne = 15, 
     Feijão = 12,
     Brigadeiro = 8,
-
-
 }
+
+// So consegui até aqui professor. 
+
 
 
 
